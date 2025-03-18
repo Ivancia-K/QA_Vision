@@ -8,3 +8,4 @@ alter pluggable database open;
 
 alter user hr identified by hr account unlock;
 
+gjhahjgh
